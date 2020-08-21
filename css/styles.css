@@ -2,6 +2,7 @@ body{
   background-color: #ffe0f7;
   text-align: center;
   font-family: 'Kotta One', serif;
+  color: #b52b65;
 }
 h1{
   color: #f12b6b;
@@ -19,4 +20,8 @@ h1{
 }
 .btn:hover{
   background-color: #f12b6b;
+}
+footer{
+  margin-top: 12%;
+  color: #b52b65;
 }
