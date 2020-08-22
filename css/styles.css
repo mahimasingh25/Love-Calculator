@@ -25,6 +25,12 @@ h1{
   background-color: #f12b6b;
   color: #1b262c;
 }
+#percent{
+  color: #f12b6b;
+  font-family: 'Rancho', cursive;
+  font-size: 10rem;
+  padding: 10px;
+}
 footer{
   margin-top: 12%;
   color: #b52b65;
